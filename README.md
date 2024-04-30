@@ -1,4 +1,4 @@
 # Natural language processing
 
-Ensemble d'applications/projets en apprentissage par renforcement (RL) que j'ai pu réaliser en groupe ou tout seul
+Ensemble d'applications/projets en NLP que j'ai pu réaliser en groupe ou tout seul
 
